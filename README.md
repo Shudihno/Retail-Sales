@@ -44,13 +44,13 @@ The objective was to:
 *   Performance & Trend Rules
 
 ## DATA QUESTIONS TESTED
-*	1.	Which product category sells the most items for each age group? (Age groups: 18–25, 26–35, 36–50, 51–64)
-*	2.	Which age group has the best sales (most money) and which has the worst sales (least money)?
-*	3.	For each product category (Beauty, Clothing, Electronics), which age group buys the most?
-*   4.	What is the average price per item? Also, what is the total money made and total items sold?
-*   5.	Which year had more sales from 2023 or 2024? (Use the Date column. Only compare years that exist in the data.)
-*   6.	In which month did each product category sell the most?
-*   7.	Show me sales trends by month, by quarter, and by year. (How did sales go up or down over time?)
+1.	Which product category sells the most items for each age group? (Age groups: 18–25, 26–35, 36–50, 51–64)
+2.	Which age group has the best sales (most money) and which has the worst sales (least money)?
+3.	For each product category (Beauty, Clothing, Electronics), which age group buys the most?
+4.	What is the average price per item? Also, what is the total money made and total items sold?
+5.	Which year had more sales from 2023 or 2024? (Use the Date column. Only compare years that exist in the data.)
+6.	In which month did each product category sell the most?
+7.	Show me sales trends by month, by quarter, and by year. (How did sales go up or down over time?)
 8.	Compare the three product categories (Beauty, Clothing, Electronics). Which is best and which is worst?
 9.	Do men or women buy more? Show me total money and total items for each gender, broken down by product category.
 10.	Which age group buys the most expensive items? (Expensive = price per unit over 300)
